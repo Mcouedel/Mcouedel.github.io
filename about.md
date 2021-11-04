@@ -1,3 +1,3 @@
 layout: page
-tilte: About
+title: About
 permalink: /https://mcouedel.github.io/about/
